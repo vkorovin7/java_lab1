@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<library>
+    <book>
+        <title>Преступление и наказание</title>
+        <author>Федор Достоевский</author>
+        <year>1866</year>
+    </book>
+    <book>
+        <title>Божественная комедия</title>
+        <author>Данте Алигьери</author>
+        <year>1321</year>
+    </book>
+</library>

@@ -1,0 +1,40 @@
+Тема: LLMs are eroding my software engineering career and I don't know what to do
+Ссылка: https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/
+Рейтинг: 147 points
+
+Тема: Anthropic, please ship an official Claude Desktop for Linux
+Ссылка: https://github.com/anthropics/claude-code/issues/65697
+Рейтинг: 23 points
+
+Тема: The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners
+Ссылка: https://www.ioccc.org/2025/
+Рейтинг: 248 points
+
+Тема: Anthropic/OpenAI may be spending more than $1000 for every $100 you pay them
+Ссылка: https://ea.rna.nl/2026/06/07/anthropic-openai-may-be-spending-more-than-1000-for-every-100-you-pay-them/
+Рейтинг: 14 points
+
+Тема: Yon – a topos-oriented language with a content-addressed lattice heap
+Ссылка: https://yon-lang.org/
+Рейтинг: 15 points
+
+Тема: Win16 Memory Management
+Ссылка: http://www.os2museum.com/wp/win16-memory-management/
+Рейтинг: 71 points
+
+Тема: Speculative KV coding: losslessly compressing KV cache by up to ~4×
+Ссылка: https://fergusfinn.com/blog/kv-entropy-coder/
+Рейтинг: 87 points
+
+Тема: My Software North Star
+Ссылка: https://kristoff.it/blog/north-star/
+Рейтинг: 130 points
+
+Тема: 9 Mothers (YC P26) Is Hiring
+Ссылка: https://9mothers.com/careers
+Рейтинг: 210 points
+
+Тема: Valve P2P networking broken for more than 2 months
+Ссылка: https://github.com/ValveSoftware/GameNetworkingSockets/issues/398
+Рейтинг: 195 points
+
